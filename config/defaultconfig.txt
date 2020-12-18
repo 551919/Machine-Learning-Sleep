@@ -1,0 +1,7 @@
+darkmode=0
+hours=0
+age=0
+username=gordon
+weapon=crowbar
+datapoints_happy=0,0,0,0,0
+datapoints_hours=0,0,0,0,0
