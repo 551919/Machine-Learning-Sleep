@@ -47,7 +47,7 @@ wn.tracer(True)
  
 # Set up Twilio (text message). I know you're supposed to promote both these variables to environment ones, but this is a trial account I don't care about.
 account_sid = 'AC2f73ff7b4cb7be22ca84ae9315874b99'
-auth_token = '4f2c1ce69f8df4554d0a1c47495ad080'
+auth_token = '24af39152f53518383171bbbef987210'
 
 client = Client(account_sid, auth_token)
 # Open config file and set variables
